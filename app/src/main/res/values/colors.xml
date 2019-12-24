@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="dark">#000000</color>
+    <color name="colorPrimary">#1BC72C</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimaryDark2">#1A77FF</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorAccent1">#FFFFFF</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorPrimary1">#01579B</color>
+    <color name="colorPrimary2"
+        >#005DFF</color>
+    <color name="appRegist">#7EBAEC</color>
+    <color name="grase">#B5E61D</color>
+    <color name="armor_1">#eacb91</color>
+    <color name="armor_2">#bf7f4e</color>
+    <color name="armor_3">#815735</color>
+    <color name="damage_1">#cdddff</color>
+    <color name="damage_2">#4fb6ff</color>
+    <color name="damage_3">#28597C</color>
+    <color name="health_1">#ffcdcd</color>
+    <color name="health_2">#f81f27</color>
+    <color name="health_3">#8A1317</color>
+    <color name="xp_1">#E9F15B</color>
+    <color name="xp_2">#F3BF24</color>
+    <color name="rock">#A9A9A9</color>
+    <color name="shose">#943D5DFF</color>
+    <color name="buttonlogin">#80CFC9C9</color>
+    <color name="water">#00FFFF</color>
+    <color name="sand">#C2B280</color>
+    <color name="tundra">#228B22</color>
+    <color name="toast">#66612C2C</color>
+    <color name="type_2">#5E11FF00</color>
+    <color name="type_1">#7717FF00</color>
+    <color name="type0">#360089FF</color>
+    <color name="type1">#553F78F5</color>
+    <color name="type2">#22FF0000</color>
+    <color name="main">#EE4488EE</color>
+    <color name="main2">#801100FF</color>
+    <color name="shadow">#585858</color>
+    <color name="appname">#00FF00</color>
+</resources>

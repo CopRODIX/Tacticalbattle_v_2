@@ -1,0 +1,85 @@
+  {
+  "project_info": {
+    "project_number": "1080136607636",
+    "firebase_url": "https://tactical-battle.firebaseio.com",
+    "project_id": "tactical-battle",
+    "storage_bucket": "tactical-battle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080136607636:android:5604c17b25f9fa51",
+        "android_client_info": {
+          "package_name": "com.example.tacticalb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080136607636-7uja445036h7606t8n9p3ifa0h16effv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tacticalb",
+            "certificate_hash": "c72a49e78d9a9e267876a0ae6b7bf64ed8230b44"
+          }
+        },
+        {
+          "client_id": "1080136607636-hdq1i1n6prulf834j7eodko5c292gnjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqczCyCfeRmO_9BeigZ1UsuVgLNVDvs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080136607636-hdq1i1n6prulf834j7eodko5c292gnjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080136607636:android:99bee870e816fc94",
+        "android_client_info": {
+          "package_name": "com.example.tacticalbattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080136607636-euprha9oslj0kn0ccmlvarq4lrjha7fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tacticalbattle",
+            "certificate_hash": "c72a49e78d9a9e267876a0ae6b7bf64ed8230b44"
+          }
+        },
+        {
+          "client_id": "1080136607636-hdq1i1n6prulf834j7eodko5c292gnjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqczCyCfeRmO_9BeigZ1UsuVgLNVDvs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080136607636-hdq1i1n6prulf834j7eodko5c292gnjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

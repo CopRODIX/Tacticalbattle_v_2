@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="Мои сообщения"
+        android:id="@+id/my_chat"
+        />
+    <item
+        android:title="Пользователи"
+        android:id="@+id/accounts"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"/>
+</menu>

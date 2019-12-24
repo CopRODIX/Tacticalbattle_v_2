@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Tactical battle</string>
+    <string-array name="info">
+        <item>Ход осуществляется с помощью зелёного шестиугольника справа снизу</item>
+        <item>Маршрут движения героя простраивается двойным кликом</item>
+        <item>Дополнительную информацию о клетках поля можно посмотреть с помощью долгого зажатия</item>
+<item>Чтобы прокачать параметры нажмите на поле дополнительной информации о параметрах</item>
+
+
+    </string-array>
+ <string name="HOME">[{"ABOUT":"Welcome to the training camp where you can learn the basics of combat!","ACTIVEFIELD":"4 4 4 1 0 0 1 10 0 0 3 1 1 1 0 0 0 4 4 0 -4 4 4 1 0 1 1 0 2 0 3 1 0 1 1 1 1 0 0 0 -4 43 2 2 2 1 1 2 2 2 32 1 3 0 0 0 0 4 0 0 -24 2 2 2 2 2 1 2 2 3 3 2 2 0 1 0 1 4 1 1 -2 2 2 24 2 2 0 0 3 0 0 0 0 2 2 2 0 43 4 4 -2 21 2 2 2 1 0 1 1 0 1 1 0 2 2 2 1 4 0 0 -4 2 2 2 0 1 0 0 3 1 3 3 0 1 2 2 2 2 4 4 -4 2 2 0 0 1 1 1 1 3 1 1 0 2 2 2 2 2 26 1 -4 4 2 0 1 0 0 1 16 32 3 3 1 0 1 0 1 2 2 1 -4 4 4 1 0 1 0 1 1 3 3 1 0 0 1 0 1 4 1 4 -4 1 1 1 2 2 2 2 1 1 3 3 3 1 1 1 0 1 1 1 -4 4 1 2 25 2 2 2 2 1 3 2 0 0 1 0 1 4 1 4 -4 1 1 1 0 2 2 1 2 2 2 2 2 0 2 0 0 4 1 4 -2 2 4 0 1 1 0 10 2 2 2 2 2 2 1 1 0 4 2 1 -2 2 2 1 1 1 0 0 3 3 2 2 2 2 0 0 0 4 2 2 -1 2 2 1 1 0 0 1 1 3 2 1 0 1 1 0 0 4 4 4 -4 4 21 2 1 0 1 0 3 3 1 1 0 1 1 0 0 0 4 1 -4 0 4 0 0 15 1 1 1 3 3 3 0 0 0 0 0 4 4 4 -1 0 4 0 0 0 1 0 0 1 3 0 2 2 1 2 2 2 4 4 -1 0 4 1 0 1 1 0 0 3 0 3 2 1 2 2 2 2 4 1 -","NAME":"Hello","TYPELIST":"[\r\n  \"{\\\"Rb1\\\":{\\\"armor\\\":5,\\\"armver\\\":60,\\\"damage\\\":20,\\\"damver\\\":40,\\\"health\\\":35,\\\"initiative\\\":6,\\\"max_armver\\\":100,\\\"max_damver\\\":100,\\\"max_health\\\":35,\\\"xp_sold\\\":1,\\\"coord\\\":[18,0],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[18,0],\\\"active\\\":1}},\\\"Hr2\\\":{\\\"_ID\\\":\\\"null\\\",\\\"login\\\":\\\"0\\\",\\\"unit\\\":{\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}},\\\"armor\\\":0,\\\"armver\\\":0,\\\"damage\\\":0,\\\"damver\\\":0,\\\"health\\\":0,\\\"initiative\\\":0,\\\"level\\\":0,\\\"max_armor\\\":10,\\\"max_armver\\\":100,\\\"max_damage\\\":40,\\\"max_damver\\\":100,\\\"max_health\\\":500,\\\"warheal\\\":0,\\\"warxp\\\":0,\\\"xp\\\":0,\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}}}\",\r\n  \"{\\\"Hr1\\\":{\\\"_ID\\\":\\\"null\\\",\\\"login\\\":\\\"0\\\",\\\"unit\\\":{\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}},\\\"armor\\\":0,\\\"armver\\\":0,\\\"damage\\\":0,\\\"damver\\\":0,\\\"health\\\":0,\\\"initiative\\\":0,\\\"level\\\":0,\\\"max_armor\\\":10,\\\"max_armver\\\":100,\\\"max_damage\\\":40,\\\"max_damver\\\":100,\\\"max_health\\\":500,\\\"warheal\\\":0,\\\"warxp\\\":0,\\\"xp\\\":0,\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}},\\\"Wo2\\\":{\\\"armor\\\":4,\\\"armver\\\":50,\\\"damage\\\":25,\\\"damver\\\":60,\\\"health\\\":30,\\\"initiative\\\":4,\\\"max_armver\\\":100,\\\"max_damver\\\":100,\\\"max_health\\\":30,\\\"xp_sold\\\":1,\\\"coord\\\":[18,0],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[18,0],\\\"active\\\":1}}}\",\r\n  \"{\\\"Wa2\\\":{\\\"armor\\\":10,\\\"armver\\\":70,\\\"damage\\\":15,\\\"damver\\\":50,\\\"health\\\":40,\\\"initiative\\\":2,\\\"max_armver\\\":100,\\\"max_damver\\\":100,\\\"max_health\\\":40,\\\"xp_sold\\\":1,\\\"coord\\\":[18,0],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[18,0],\\\"active\\\":1}},\\\"Hr1\\\":{\\\"_ID\\\":\\\"null\\\",\\\"login\\\":\\\"0\\\",\\\"unit\\\":{\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}},\\\"armor\\\":0,\\\"armver\\\":0,\\\"damage\\\":0,\\\"damver\\\":0,\\\"health\\\":0,\\\"initiative\\\":0,\\\"level\\\":0,\\\"max_armor\\\":10,\\\"max_armver\\\":100,\\\"max_damage\\\":40,\\\"max_damver\\\":100,\\\"max_health\\\":500,\\\"warheal\\\":0,\\\"warxp\\\":0,\\\"xp\\\":0,\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}}}\",\r\n  \"{\\\"Wi2\\\":{\\\"armor\\\":3,\\\"armver\\\":30,\\\"damage\\\":30,\\\"damver\\\":70,\\\"health\\\":25,\\\"initiative\\\":1,\\\"max_armver\\\":100,\\\"max_damver\\\":100,\\\"max_health\\\":25,\\\"xp_sold\\\":1,\\\"coord\\\":[18,0],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[18,0],\\\"active\\\":1}},\\\"Hr1\\\":{\\\"_ID\\\":\\\"null\\\",\\\"login\\\":\\\"0\\\",\\\"unit\\\":{\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}},\\\"armor\\\":0,\\\"armver\\\":0,\\\"damage\\\":0,\\\"damver\\\":0,\\\"health\\\":0,\\\"initiative\\\":0,\\\"level\\\":0,\\\"max_armor\\\":10,\\\"max_armver\\\":100,\\\"max_damage\\\":40,\\\"max_damver\\\":100,\\\"max_health\\\":500,\\\"warheal\\\":0,\\\"warxp\\\":0,\\\"xp\\\":0,\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}}}\",\r\n  \"{\\\"Wo3\\\":{\\\"armor\\\":4,\\\"armver\\\":50,\\\"damage\\\":25,\\\"damver\\\":60,\\\"health\\\":30,\\\"initiative\\\":4,\\\"max_armver\\\":100,\\\"max_damver\\\":100,\\\"max_health\\\":30,\\\"xp_sold\\\":1,\\\"coord\\\":[17,0],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[17,0],\\\"active\\\":1}},\\\"Hr1\\\":{\\\"_ID\\\":\\\"null\\\",\\\"login\\\":\\\"0\\\",\\\"unit\\\":{\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}},\\\"armor\\\":0,\\\"armver\\\":0,\\\"damage\\\":0,\\\"damver\\\":0,\\\"health\\\":0,\\\"initiative\\\":0,\\\"level\\\":0,\\\"max_armor\\\":10,\\\"max_armver\\\":100,\\\"max_damage\\\":40,\\\"max_damver\\\":100,\\\"max_health\\\":500,\\\"warheal\\\":0,\\\"warxp\\\":0,\\\"xp\\\":0,\\\"coord\\\":[1,16],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[1,16],\\\"active\\\":1}},\\\"De2\\\":{\\\"armor\\\":2,\\\"armver\\\":40,\\\"damage\\\":12,\\\"damver\\\":30,\\\"heal\\\":10,\\\"health\\\":20,\\\"initiative\\\":3,\\\"max_armver\\\":100,\\\"max_damver\\\":100,\\\"max_health\\\":20,\\\"xp_sold\\\":1,\\\"coord\\\":[18,0],\\\"hex\\\":{\\\"center\\\":[0,0],\\\"coord\\\":[18,0],\\\"active\\\":1}}}\"\r\n]","USER":"admin@admin.ru","DEVIL":1,"DOWNLOADS":6,"GHOST":0,"LEVEL":1,"NOWStrange":0,"ROBBER":1,"STRAGE":5,"TYPE":1,"WARRIOR":1,"WIZARD":1,"WOLF":1,"XP_SOLD":0,"_ID":16,"win":0}]</string>
+    <string name="SHOP">[{"ABOUT":"If you love the water, then you will be fine here","ACTIVEFIELD":"43 4 4 1 1 1 1 3 1 3 10 3 1 3 1 1 1 4 4 46-1 4 4 1 1 1 3 1 3 3 3 1 3 1 1 1 1 4 4 1 -1 4 4 1 1 1 1 1 3 1 14 3 1 1 1 1 1 4 4 1 -1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1-1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 -2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 -1 1 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 1 -2 2 1 0 0 0 0 0 0 35 1 0 0 0 0 0 0 1 2 2 -1 2 2 0 0 0 0 0 0 3 1 3 0 0 0 0 0 0 2 1 -21 2 0 0 0 0 0 0 3 10 32 1 0 0 0 0 0 0 2 21 -1 2 2 0 0 0 0 0 0 3 1 3 0 0 0 0 0 0 2 1 -2 2 1 0 0 0 0 0 0 35 1 0 0 0 0 0 0 1 2 2 -1 1 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 1-2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 -1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 -1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 -1 4 4 1 1 1 1 1 3 1 32 1 3 1 1 1 1 4 4 1 -1 4 4 1 1 1 1 3 3 3 3 3 1 1 1 1 1 4 4 1 -1 4 4 1 1 1 1 3 1 3 3 1 3 1 1 1 1 4 4 1 -46 4 4 1 1 1 1 1 3 14 3 1 1 1 1 1 1 4 4 43 -","NAME":"Lake","TYPELIST":"NO","USER":"admin@admin.ru","DEVIL":10,"DOWNLOADS":13,"GHOST":0,"LEVEL":1,"NOWStrange":0,"ROBBER":10,"STRAGE":5,"TYPE":1,"WARRIOR":10,"WIZARD":10,"WOLF":10,"XP_SOLD":7,"_ID":7,"win":0},{"ABOUT":"Nobody knows what is here","ACTIVEFIELD":"NO","NAME":"Unknown spaces","TYPELIST":"No","USER":"admin@admin.ru","DEVIL":10,"DOWNLOADS":10,"GHOST":0,"LEVEL":1,"NOWStrange":0,"ROBBER":10,"STRAGE":5,"TYPE":0,"WARRIOR":10,"WIZARD":10,"WOLF":10,"XP_SOLD":5,"_ID":8,"win":0}]</string>
+
+    <string-array name="info_title">
+        <item>Защита</item>
+        <item>Атака</item>
+        <item>Удар</item>
+        <item>Блокирование удара</item>
+        <item>Герой</item>
+        <item>Монстр</item>
+        <item>Объект на карте</item>
+        <item>Боевые параметры</item>
+        <item>Боевой опыт</item>
+        <item>Жизни</item>
+    </string-array>
+    <string-array name="info_message">
+        <item>Навык позволяющий заблокировать удар</item>
+        <item>Навык позволяет нанести удар</item>
+        <item>Нанесение урона одним юнитом другому</item>
+        <item>Не нанесение урона одним юнитом другому</item>
+        <item>Персонаж, которым управляет игрок</item>
+        <item>Персонаж, который мешает игроку пройти карту</item>
+            <item>Место где герой может увеличить боевые параметры</item>
+            <item>Жизни, атака,защита, боевой опыт</item>
+            <item>Позволяет герою перекачивать боевые параметры</item>
+            <item>Параметр, который показывает, когда игрок проигрывает игру</item>
+    </string-array>
+    <string-array name="language_origenal">
+        <item>Россия</item>
+        <item>United Kingdom</item>
+        <item>Française</item>
+        <item>中文</item>
+    </string-array>
+    <string-array name="language_eng">
+        <item>ru</item>
+        <item>gb</item>
+        <item>fr</item>
+        <item>ch</item>
+    </string-array>
+    <string name="back">Назад</string>
+    <string name="warriorab">Варвар идёт напролом</string>
+    <string name="wizardab">Маг-уязвимый в ближнем бою, но недосягаемый в дальнем</string>
+    <string name="wolfab">Волк-быстрый и опасный хищник!</string>
+    <string name="devilab">Дьявол способствует твоим врагам</string>
+    <string name="robberab">Разбойник всегда на шаг впереди!</string>
+    <string name="desertab">Местность, на которой будет штраф - уменьшение защиты</string>
+    <string name="tundraab">Местность, на которой будет штраф - уменьшение атаки</string>
+    <string name="plainab">Местность, по которой вы можете двигаться без штрафов</string>
+    <string name="hillab">Местность, на которой будет штраф в передвижении</string>
+    <string name="tonnelab">Подземный ход, который поможет вам оказаться на другом выходе из тоннеля</string>
+    <string name="hutab">Место, где лекарь может увеличить ваше здоровье</string>
+    <string name="forgeab">Место, где мастер может увеличить вашу атаку</string>
+    <string name="castleab">Место, где вас научат обороняться и увеличат вашу защиту</string>
+    <string name="waterab">Вода,по ней ходить нельзя</string>
+    <string name="defense">Защита</string>
+    <string name="attack">Атака</string>
+    <string name="nointernet">Нет подключения к интернету!</string>
+    <string name="health">Жизни</string>
+    <string name="level">Уровень</string>
+   <string name="warxp">Боевой Xp</string>
+    <string name="xp">Xp</string>
+    <string name="skills">Навыки</string>
+    <string name="about">Информация</string>
+    <string name="weapon">Оружие</string>
+    <string name="choosetypegame">Выберете тип игры</string>
+    <string name="singlegame">Одиночная игра</string>
+    <string name="notenoughxpmap">Не хватает Xp для открытия карты</string>
+    <string name="openonlineroom">Открыть онлайн комнату</string>
+    <string name="numberstage">Этапы</string>
+    <string name="numberunit">Юниты</string>
+    <string name="armor">Броня</string>
+    <string name="yourlanguage">Твой язык</string>
+    <string name="notcomplete">Не все поля заполнены</string>
+    <string name="less8">Пароль содержит меньше 8 символов</string>
+    <string name="notthesame">Пароли не одинаковы</string>
+    <string name="changesettings">Смените в настройках</string>
+    <string name="mail">Письмо для подтверждения вашего EMAIL отправлено</string>
+    <string name="errorregistration">Ошибка в регистрации</string>
+    <string name="wait">Пожалуйста подождите</string>
+    <string name="loading">Загрузка</string>
+    <string name="title_activity_reg">Reg</string>
+    <string name="notenoughxpskill">Не хватает Xp для прокачки навыка</string>
+    <string name="moremax">Будет выше максимума</string>
+    <string name="lesslevel">Ваш уровень меньше требуемого</string>
+    <string name="congratulate">Поздравляю</string>
+    <string name="nextlevel">Новый уровень</string>
+    <string name="newmaps">У Вас открылись новые карты в магазине</string>
+    <string name="win">Вы выиграли</string>
+    <string name="lose">Вы проиграли</string>
+    <string name="buymap">Покупать карту</string>
+    <string name="formap">На карту</string>
+    <string name="levelspend">уровня вы потратите</string>
+    <string name="mapcontains">Карта состоит из</string>
+    <string name="backcatalog">Вернутся к каталогу</string>
+    <string name="ofstage">этапов</string>
+    <string name="congratulatemap">Поздравляем с новой картой</string>
+    <string name="erroebuymap">Ошибка при покупке карты</string>
+    <string name="notenoughmoney">Недостаточно средств</string>
+    <string name="endgame">Закончить игру</string>
+    <string name="notcontinue">При удалении игру нельзя будет продолжить</string>
+    <string name="remain">Остаться</string>
+    <string name="leave">Выйти</string>
+    <string name="buy">Купить</string>
+    <string name="notfull">Не все заполнено</string>
+    <string name="confirmemail">Потвердите EMAIL</string>
+    <string name="authentication">Аутентификация не состоялась</string>
+    <string name="impossibletotake">Не возможно взять</string>
+    <string name="makechoice">Выбор сделан</string>
+    <string name="sendletter">Письмо отправлено</string>
+    <string name="error">Ошибка</string>
+    <string name="restoration">Восстановление</string>
+    <string name="includeinterner">Включите интернет для зачисления ваших</string>
+    <string name="warning">Иначе вы не восстановите потерянные</string>
+    <string name="passwordwarning">Иначе вы не восстановите потерянные</string>
+    <string name="more8">Пароль должен быть не менее 8 символов</string>
+    <string name="nochange">Не изменен</string>
+    <string name="changepassword">Смена пароля пользователя</string>
+    <string name="changename">Смена имя пользователя</string>
+    <string name="changelogin">Логин был изменен</string>
+    <string name="loginchanging">Сменить логин</string>
+    <string name="newlogin">Новый логин</string>
+    <string name="passwordchanging">Сменить пароль</string>
+    <string name="newpassword">Новый пароль</string>
+    <string name="message">Письмо</string>
+    <string name="send">Отправить</string>
+    <string name="developers">Разработчики:\n Котов Родион\n Шварцкопф Михаил</string>
+    <string name="teacher">Преподаватель:\n Муль Павел Фридрихович</string>
+    <string name="loginerror">Ошибка в измнении логина</string>
+    <string name="place">Новосибирск 29.05.2019 год</string>
+    <string name="choose">Выбрать</string>
+    <string name="stage">Этапы</string>
+    <string name="cancel">Отменить</string>
+    <string name="start">Начать</string>
+    <string name="coin">Золото</string>
+    <string name="sendemail">Отправить письмо</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="rememberme">Запомнить меня</string>
+    <string name="login">Вход</string>
+    <string name="registration">Регистрация</string>
+    <string name="restorepassword">Восстановление</string>
+    <string name="play">Играть</string>
+    <string name="reiting">Рейтинг</string>
+    <string name="settings">Настройки</string>
+    <string name="regist">Зарегистрироваться</string>
+    <string name="repeatpassword">Повторите пароль</string>
+    <string name="username">Логин</string>
+    <string name="state">Твоя страна ?</string>
+    <string name="save">Сохранить</string>
+    <string name="choosepc">Загрузить картинку</string>
+    <string name="chooseapplibrary">Выбрать картинку</string>
+    <string name="buymaps">Покупка карт</string>
+    <string name="buyskills">Покупка навыков</string>
+    <string name="name">Название</string>
+    <string name="notenoughxp">Не хватает опыта</string>
+    <string name="emailchange">Смена почты</string>
+    <string name="passwordchange">Смена пароля</string>
+    <string name="end">Закончить игру</string>
+    <string name="more1">Что бы выбрать картинку для замены нажмите еще 1 раз</string>
+    <string name="noaccess">EMAIL уже использвуется другим пользователем</string>
+    <string name="continuegame">Продолжить незаконченную игру ?</string>
+    <string name="newgamestart">При ответе No начнется новая игра</string>
+    <string name="ok">Хорошо</string>
+    <string name="newgame">Новая игра</string>
+    <string name="more3">Нужно выбрать в сумме не меньше 3 монстров</string>
+    <string name="plus">Кол-ва монстров будут увеличиватся на каждом этапе</string>
+    <string name="few">Чего-то мало получается!</string>
+    <string name="defenseab">Данный навык повышает устойчивость к ударам монстров</string>
+    <string name="attackab">Данный навык повышает ударную силу героя</string>
+    <string name="healthab">Данный навык повышает количество жизней</string>
+    <string name="last">Выбор является окончательным?</string>
+    <string name="more">О игре</string>
+    <string name="update">Чтобы продолжить:\nОбновите игру</string>
+    <string name="local">Локальная игра</string>
+    <string name="online">Онлайн игра</string>
+    <string name="gold">Золото</string>
+</resources>
